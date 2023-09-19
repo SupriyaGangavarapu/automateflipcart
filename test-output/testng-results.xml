@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-13T16:40:20 IST" name="Default suite" finished-at="2023-09-13T16:40:28 IST" duration-ms="7938">
+    <groups>
+    </groups>
+    <test started-at="2023-09-13T16:40:20 IST" name="Default test" finished-at="2023-09-13T16:40:28 IST" duration-ms="7938">
+      <class name="com.example.Testing">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:20 IST" name="beforeMethod" finished-at="2023-09-13T16:40:23 IST" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="pageloadtime()[pri:0, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:23 IST" name="pageloadtime" finished-at="2023-09-13T16:40:25 IST" duration-ms="2415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageloadtime -->
+        <test-method signature="searchItem()[pri:1, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:25 IST" name="searchItem" finished-at="2023-09-13T16:40:26 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="Scrollbarcheck()[pri:2, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:26 IST" name="Scrollbarcheck" finished-at="2023-09-13T16:40:26 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scrollbarcheck -->
+        <test-method signature="scrollToBottom()[pri:3, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:26 IST" name="scrollToBottom" finished-at="2023-09-13T16:40:26 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToBottom -->
+        <test-method signature="CheckPageHasRefreshed()[pri:4, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:26 IST" name="CheckPageHasRefreshed" finished-at="2023-09-13T16:40:28 IST" duration-ms="2244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPageHasRefreshed -->
+        <test-method signature="imageload()[pri:5, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:28 IST" name="imageload" finished-at="2023-09-13T16:40:28 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.Testing@5b1669c0]" started-at="2023-09-13T16:40:28 IST" name="tearDown" finished-at="2023-09-13T16:40:28 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
